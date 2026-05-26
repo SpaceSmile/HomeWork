@@ -429,7 +429,14 @@ FodyWeavers.xsd
 *.msp
 
 # Rider
+/HomeWork1/HomeWork1/.idea/.idea.HomeWork1/.idea/
+/HomeWork1/HomeWork1/.idea/.idea.HomeWork1/.idea/.gitignore
+/HomeWork1/HomeWork1/.idea/.idea.HomeWork1/.idea/encodings.xml
+/HomeWork1/HomeWork1/.idea/.idea.HomeWork1/.idea/indexLayout.xml
+/HomeWork1/HomeWork1/.idea/.idea.HomeWork1/.idea/vcs.xml
 /.idea/
 /.idea/encodings.xml
 /.idea/indexLayout.xml
 /.idea/vcs.xml
+.idea/
+*.sln.DotSettings.user
