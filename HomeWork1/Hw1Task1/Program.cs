@@ -1,4 +1,4 @@
-﻿namespace HwTask1;
+﻿namespace Hw1Task1;
 
 class Program
 {
