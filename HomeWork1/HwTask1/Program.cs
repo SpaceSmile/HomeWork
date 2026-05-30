@@ -1,4 +1,4 @@
-﻿namespace HomeWork1;
+﻿namespace HwTask1;
 
 class Program
 {
