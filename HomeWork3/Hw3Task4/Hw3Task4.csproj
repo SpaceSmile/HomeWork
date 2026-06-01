@@ -5,7 +5,7 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>Hw2Task2</RootNamespace>
+        <RootNamespace>Hw3Task4</RootNamespace>
     </PropertyGroup>
 
 </Project>

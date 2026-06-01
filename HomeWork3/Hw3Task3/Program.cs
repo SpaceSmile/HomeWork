@@ -1,4 +1,4 @@
-﻿namespace Hw2Task3;
+﻿namespace Hw3Task3;
 
 class Program
 {
