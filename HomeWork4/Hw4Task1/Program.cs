@@ -17,4 +17,6 @@ class Program
         }
 		Console.WriteLine(found ? "Число найдено" : "Число не найдено");
 	}
+    // Решение от ии в 1 строку (для себя)
+    // Console.WriteLine(Array.IndexOf(massive, numbers) >= 0 ? "Число найдено" : "Число не найдено");
 }
