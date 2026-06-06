@@ -15,9 +15,6 @@ class Program
                 break;
             }
         }
-		if (found)
-			Console.WriteLine("Число найдено");
-		else
-			Console.WriteLine("Число не найдено");
+		Console.WriteLine(found ? "Число найдено" : "Число не найдено");
 	}
 }
