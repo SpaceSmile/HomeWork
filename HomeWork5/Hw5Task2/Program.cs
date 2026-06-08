@@ -6,7 +6,6 @@ class Program
 	{
 		string text = "teamwithsomeofexcersicesabcwanttomakeitbetter";
 		string marker = "abc";
-
 		int index = text.IndexOf(marker);
 
 		if (index >= 0)
@@ -21,6 +20,5 @@ class Program
 		{
 			Console.WriteLine("Подстрока 'abc' не найдена.");
 		}
-
 	}
 }
